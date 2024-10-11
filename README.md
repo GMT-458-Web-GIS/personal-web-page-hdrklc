@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O2YWE8TK)
+# myBlog Statik Web Projesi
+
+## Projenin Hedefi:
+* HTML - CSS kodlarını temel sevideye bilip proje geliştirmekte zorlanan arkadaşlarımız için "örnek bir web projesi nasıl yapılır" sorusuna cevap olarak hazırlanmıştır.
+
+## Projenin demo hali:
+* [myBlog](https://static-myblog.onrender.com/)
+
+
+##### Bu proje [`Yazılım ve Gelişim`](https://www.youtube.com/@yazilimvegelisim) tarafından Youtube için hazırlanmıştır. 
