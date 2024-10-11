@@ -1,10 +1,8 @@
-# myBlog Statik Web Projesi
+# Hıdır Kılıç MyBlog
 
 ## Projenin Hedefi:
-* HTML - CSS kodlarını temel sevideye bilip proje geliştirmekte zorlanan arkadaşlarımız için "örnek bir web projesi nasıl yapılır" sorusuna cevap olarak hazırlanmıştır.
+* The aim of this assignment is to familiariase students with HTML, CSS, and
+OpenLayers by creating their personal web pages. Each student will host his/her project
+on GitHub.
 
-## Projenin demo hali:
-* [myBlog](https://static-myblog.onrender.com/)
 
-
-##### Bu proje [`Yazılım ve Gelişim`](https://www.youtube.com/@yazilimvegelisim) tarafından Youtube için hazırlanmıştır. 
